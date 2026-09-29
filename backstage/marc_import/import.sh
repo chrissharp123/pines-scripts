@@ -18,8 +18,8 @@
 #
 # A program for automating Backstage record import.
 
-# USAGE NOTE: this script expects a script name 'eg_staged_bib_overlay'
-# to exist in the current working directory.  This script is from
+# USAGE NOTE: this script expects a script named 'eg_staged_bib_overlay'
+# to exist in the current working directory.  This overlay script is from
 # the Equinox Open Library Initiative's migration tools repository at
 # https://github.com/EquinoxOpenLibraryInitiative/migration-tools/
 # 
